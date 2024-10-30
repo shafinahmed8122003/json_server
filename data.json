@@ -1,6 +1,19 @@
 {
     "name": "Shafin",
     "age": 20,
-    "religion": "Islam",
-    "university": "North South University"
+    "friends": [
+        "Alvi",
+        "Ridwan",
+        "Rubaiya",
+        "Soumi",
+        "Jessica",
+        "Bishal",
+        "Jimmie",
+        "Maisha",
+        "Mithi",
+        "Ifty",
+        "Jubair",
+        "Zakey",
+        "Sraboni"
+    ]
 }
